@@ -1,6 +1,6 @@
 # Assignments
 
-All assignments and section materials use Python3.6, with the anaconda distrition, without any extra dependencies. 
+All assignments and section materials use Python3.6, with the anaconda distribution, without any extra dependencies. 
 
 
 TA ‘office hours’ will be run in the CSB computer room, CSB 115. These 'office hours' serve as open-ended times for you to come and ask questions, and work on assignments / coding / projects while we are around to answer questions and help you out. 
